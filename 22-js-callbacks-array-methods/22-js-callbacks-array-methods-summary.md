@@ -305,6 +305,6 @@ const person = {
     }
 }
 
-person.fullName() // undefined undefined
+person.fullName()
 
 ```
