@@ -192,20 +192,3 @@ Removes the actual element
 element.remove()
 ```
 
-##### addEventListener
-
-Specify the event type and a callback to run
-
-```js
-const button = document.querySelector('h1');
-
-button.addEventListener('click', () => {
-  alert("You clicked me!!")
-})
-```
-
-```js
-```
-
-```js
-```
