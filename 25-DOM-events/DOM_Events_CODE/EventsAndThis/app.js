@@ -17,6 +17,7 @@ for (let h1 of h1s) {
 }
 
 function colorize() {
+    //this refers to the element that is being clicked.
     this.style.backgroundColor = makeRandColor();
     this.style.color = makeRandColor();
 }
